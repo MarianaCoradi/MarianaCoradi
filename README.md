@@ -1,11 +1,11 @@
 ## Olá!!! Prazer, me chamo Mariana Coradi! Sou estudante de engenharia elétrica e programação. 😊
 <div align="center">
   <a href="https://github.com/MarianaCoradi">
-  <img height="110" src="https://github-readme-stats.vercel.app/api?username=MarianaCoradi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="110" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaCoradi&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaCoradi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaCoradi&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  <img align="right" alt="Mari-pic" height="120" style="border-radius:50px;" 
-       src="https://i.picasion.com/pic91/a7c75981d173a238cdd376d99b664ee6.gif" height="120" style="border-radius:50px;" />
+  <img align="right" alt="Mari-pic" height="110" style="border-radius:50px;" 
+       src="https://i.picasion.com/pic91/a7c75981d173a238cdd376d99b664ee6.gif" height="110" style="border-radius:50px;" />
 </div>
 
 ##
